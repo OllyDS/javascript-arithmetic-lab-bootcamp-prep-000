@@ -1,4 +1,4 @@
-var a = 10, b = 5;
+var a, b;
 
 function add(){
   a + b
