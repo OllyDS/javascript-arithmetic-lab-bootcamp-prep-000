@@ -1,10 +1,9 @@
 var a, b;
 
-function add(){
-  console.log(a + b)
-  return add
+function add(a , b){
+  return(a + b)
 }
 
-function subtract(){
-  a - b;
+function subtract(a, b){
+  return(a - b)
 }
