@@ -1,4 +1,4 @@
-var a, b
+var a, b, c
 
 function randomNum() {
   a = Math.floor(Math.random() * 1000)
@@ -6,7 +6,7 @@ function randomNum() {
 }
 
 function add(){
-  return (a + b)
+  a + b = c
 }
 
 function subtract(){
