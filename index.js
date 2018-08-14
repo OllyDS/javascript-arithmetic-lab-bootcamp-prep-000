@@ -1,6 +1,6 @@
 var a, b
 
-beforeEach(function() {
+function randomNum() {
   a = Math.floor(Math.random() * 1000)
   b = Math.floor(Math.random() * 1000)
 
