@@ -5,5 +5,5 @@ function add(){
 }
 
 function subtract(){
-  a - b
+  a - b;
 }
